@@ -1,0 +1,9 @@
+{:base-url "http://localhost:3000"
+ :site-title "My Site"
+ :output-dir "dist"
+ :layouts-dir "layouts"
+ :components-dir "components"
+ :content-dir "content"
+ :public-dir "public"
+ :dev-server {:port 3000
+              :host "localhost"}}
